@@ -1,0 +1,59 @@
+
+
+h1 {
+  font-family: 'Lobster Two', cursive;
+  font-size: 50px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+}
+input {
+    width: 80%;
+    margin: 12px 10px;
+    background: transparent;
+    padding-left: 20px;
+    display: block;
+
+
+}
+
+.form-box {
+   display: block;
+   margin: auto 0;
+   text-align: center;
+
+}
+
+.form-control {
+  width: 50%;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: white;
+  font-size: 14px;
+}
+
+li{
+
+  font-family: 'Cinzel', serif;
+  font-size: 20px;
+  background: transperent;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+}
+
+.search-button {
+  font-size: 16px;
+  padding: 5px;
+  border-radius: 50px;
+  background: whitesmoke;
+}
+
+.search-button:hover {
+  background-color: black;
+  color: white;
+}
+
